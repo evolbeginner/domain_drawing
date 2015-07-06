@@ -1,0 +1,22 @@
+Search with Request-ID QM3-qcdsearch-3C491FE5D4190207-FE2E389712133DF started.
+.Search has been completed, retrieving results ..
+===============================================================================
+
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3C491FE5D4190207-FE2E389712133DF
+#datatype	hitsConcise Results
+#status	0
+#Start time	2014-11-18T22:00:17	Run time	0:00:00:09
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >gi|75097884|sp	specific	214587	11	147	2.20702e-45	161.722	smart00255	TIR	 - 	cl21507
+Q#1 - >gi|75097884|sp	superfamily	271927	11	147	2.20702e-45	161.722	cl21507	TIR_2 superfamily	 - 	 - 
+Q#1 - >gi|75097884|sp	specific	257559	183	304	0.000103969	42.8349	pfam13191	AAA_16	 - 	cl21455
+Q#1 - >gi|75097884|sp	superfamily	271875	183	304	0.000103969	42.8349	cl21455	ABC_ATPase superfamily	 - 	 - 
+Q#1 - >gi|75097884|sp	specific	191828	591	609	0.00195585	37.7255	pfam07725	LRR_3	 - 	cl06661
+Q#1 - >gi|75097884|sp	superfamily	191828	591	609	0.00195585	37.7255	cl06661	LRR_3 superfamily	 - 	 - 
+Q#1 - >gi|75097884|sp	multi-dom	250236	186	457	1.22928e-25	108.965	pfam00931	NB-ARC	 - 	 - 
+Q#1 - >gi|75097884|sp	multi-dom	227223	781	1090	2.12162e-10	63.0634	COG4886	COG4886	 - 	 - 
+Q#1 - >gi|75097884|sp	multi-dom	227223	610	860	7.88014e-07	51.5074	COG4886	COG4886	N	 - 
+
